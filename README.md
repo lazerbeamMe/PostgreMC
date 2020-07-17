@@ -1,6 +1,27 @@
 # PostgreMC
 PostgreSQL API for your minecraft server
 
+# Maven and Graddle
+
+```
+<repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+```
+
+```
+<dependency>
+	    <groupId>com.github.User</groupId>
+	    <artifactId>Repo</artifactId>
+	    <version>Tag</version>
+	</dependency>
+```
+
+# License
+
 ```MIT License
 
 Copyright (c) 2020 lazerbeamMe
